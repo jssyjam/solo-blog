@@ -10,6 +10,7 @@ jssyjam 的个人博客
 
 ### 最新
 
+* [docker 部署 nsq](http://www.jssyjam.com/articles/2019/09/17/1568691572607.html)
 * [wc 指令](http://www.jssyjam.com/articles/2019/09/01/1567339592862.html)
 * [golang 上传文件实现](http://www.jssyjam.com/articles/2019/08/28/1566993885468.html)
 * [ps 指令](http://www.jssyjam.com/articles/2019/08/27/1566885959581.html)
