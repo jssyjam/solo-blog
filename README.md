@@ -10,6 +10,7 @@ jssyjam 的个人博客
 
 ### 最新
 
+* [gorm 处理时间戳](http://www.jssyjam.com/articles/2019/10/17/1571282074862.html)
 * [我在 GitHub 上的开源项目](http://www.jssyjam.com/my-github-repos)
 * [docker 部署 nsq](http://www.jssyjam.com/articles/2019/09/17/1568691572607.html)
 * [wc 指令](http://www.jssyjam.com/articles/2019/09/01/1567339592862.html)
