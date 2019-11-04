@@ -10,7 +10,8 @@ jssyjam 的个人博客
 
 ### 最新
 
-* [错题集(一) - gorm 批量插入数据](http://www.jssyjam.com/articles/2019/10/31/1572523945633.html)
+* [gorm mysql for update 排他锁](http://www.jssyjam.com/articles/2019/11/03/1572794497390.html)
+* [代码集(一) - gorm 批量插入数据](http://www.jssyjam.com/articles/2019/10/31/1572523945633.html)
 * [gorm 处理时间戳](http://www.jssyjam.com/articles/2019/10/17/1571282074862.html)
 * [我在 GitHub 上的开源项目](http://www.jssyjam.com/my-github-repos)
 * [docker 部署 nsq](http://www.jssyjam.com/articles/2019/09/17/1568691572607.html)
