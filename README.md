@@ -10,6 +10,7 @@ jssyjam 的个人博客
 
 ### 最新
 
+* [golang 执行命令行(二)--修改进程启动用户](http://www.jssyjam.com/articles/2019/11/05/1572955840987.html)
 * [gorm mysql for update 排他锁](http://www.jssyjam.com/articles/2019/11/03/1572794497390.html)
 * [代码集(一) - gorm 批量插入数据](http://www.jssyjam.com/articles/2019/10/31/1572523945633.html)
 * [gorm 处理时间戳](http://www.jssyjam.com/articles/2019/10/17/1571282074862.html)
@@ -22,7 +23,7 @@ jssyjam 的个人博客
 * [dockerfile 最佳实践](http://www.jssyjam.com/articles/2019/08/02/1564732244299.html)
 * [golang 单元测试(一)](http://www.jssyjam.com/articles/2019/08/02/1564732207508.html)
 * [errgroup 使用分析](http://www.jssyjam.com/articles/2019/08/02/1564732147258.html)
-* [golang command](http://www.jssyjam.com/articles/2019/08/02/1564732049754.html)
+* [golang 执行命令行(一)](http://www.jssyjam.com/articles/2019/08/02/1564732049754.html)
 
 
 
