@@ -10,11 +10,11 @@ jssyjam 的个人博客
 
 ### 最新
 
+* [logrus 剖析之 formatter](http://www.jssyjam.com/articles/2019/11/08/1573194915335.html)
 * [golang 执行命令行(二)--修改进程启动用户](http://www.jssyjam.com/articles/2019/11/05/1572955840987.html)
 * [gorm mysql for update 排他锁](http://www.jssyjam.com/articles/2019/11/03/1572794497390.html)
 * [代码集(一) - gorm 批量插入数据](http://www.jssyjam.com/articles/2019/10/31/1572523945633.html)
 * [gorm 处理时间戳](http://www.jssyjam.com/articles/2019/10/17/1571282074862.html)
-* [我在 GitHub 上的开源项目](http://www.jssyjam.com/my-github-repos)
 * [docker 部署 nsq](http://www.jssyjam.com/articles/2019/09/17/1568691572607.html)
 * [wc 指令](http://www.jssyjam.com/articles/2019/09/01/1567339592862.html)
 * [golang 上传文件实现](http://www.jssyjam.com/articles/2019/08/28/1566993885468.html)
