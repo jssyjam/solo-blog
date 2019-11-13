@@ -10,6 +10,8 @@ jssyjam 的个人博客
 
 ### 最新
 
+* [资源](http://www.jssyjam.com/articles/2019/11/12/1573567325150.html)
+* [logrus 剖析之滚动日志](http://www.jssyjam.com/articles/2019/11/12/1573565553067.html)
 * [logrus 剖析之 hook](http://www.jssyjam.com/articles/2019/11/10/1573368622477.html)
 * [logrus 剖析之 formatter](http://www.jssyjam.com/articles/2019/11/08/1573194915335.html)
 * [golang 执行命令行(二)--修改进程启动用户](http://www.jssyjam.com/articles/2019/11/05/1572955840987.html)
